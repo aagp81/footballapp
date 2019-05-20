@@ -10,7 +10,7 @@ import { MenuPage } from './menu.page';
 const routes: Routes = [
   {
    path: '',
-   redirectTo: '/menu/main',
+   redirectTo: '/menu/main/tab1',
    pathMatch: 'full'
  },
  {
